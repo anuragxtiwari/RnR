@@ -87,6 +87,12 @@ Feel free to fork this repository and submit a pull request.
 ## 👨‍💻 Author
 
 **Anurag Tiwari**
+
 GitHub: https://github.com/anuragxtiwari
+
+
+**Naksh Goyal**
+
+GitHub: https://GitHub.com/nakshXgoyal
 
 ---
