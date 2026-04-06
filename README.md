@@ -36,7 +36,7 @@ It helps users explore places, search destinations, and even hire local guides f
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/anuragxtiwair/RnR.git
+git clone https://github.com/anuragxtiwari/RnR.git
 ```
 
 ### 2. Navigate to project folder
